@@ -11,7 +11,8 @@
             "codeUrl": "https://raw.githubusercontent.com/HalfyDay/kinoshka-plugins/main/plugins/example.js",
             "sha256": "d6ab6b350682a622ada63e40b02778b6c36c8b219b58b79fb2b2424f21848aa3",
             "sections": ["FILMS"],
-            "minAppVersion": "1.1.5"
+            "minAppVersion": "1.1.5",
+            "verified": true
         }
     ]
 }
