@@ -42,6 +42,12 @@ https://github.com/HalfyDay/Kinoshka/blob/main/docs/js-plugins/README.md
 
 ## Как добавить свой плагин
 
+Пришлите файл `plugins/<id>.js` в Telegram-чат
+https://t.me/+uAYH589yppczMjIy — посмотрим,
+проверим «Проверить» на устройстве и после модерации добавим в каталог.
+
+Альтернатива — pull request (если удобнее гитом, а не чатом):
+
 1. Форкните репозиторий, положите код в `plugins/<id>.js`.
 2. Добавьте запись в `index.json` (с хешем).
 3. Откройте pull request по шаблону (`.github/PULL_REQUEST_TEMPLATE.md`):
